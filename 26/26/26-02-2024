@@ -24,6 +24,8 @@ http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-270.m3u
 http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-296.m3u
 #EXTINF:-1,tudn lts player
 http://cdn1501.fastcdn.online:2052/free15/105/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOS8yMDI0IDE6MzQ6NDcgQU0maGFzaF92YWx1ZT1scGIwVUZZTVpVUWlZVkFHNEhjNE5RPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1,fox sport premium lts player
+http://cdn1501.fastcdn.online:2052/free15/112/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOS8yMDI0IDM6MDY6MDAgQU0maGFzaF92YWx1ZT1PdXpIWjhEcWl3T2ZadEFqWFY0ZEx3PT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="MEXICO",LAS ESTRELLAS HD OP2
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/3
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Las_Estrellas_2017_Navidad.svg/revision/latest/scale-to-width-down/250?cb=20230202024114&path-prefix=es" group-title="MEXICO",LAS ESTRELLAS HD OP3
