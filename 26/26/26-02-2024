@@ -8,8 +8,8 @@ http://181.78.105.146:2000/play/a08f
 http://e10.telerium.link:2052/free10/033/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yOS8yMDI0IDU6MjY6MDMgQU0maGFzaF92YWx1ZT1YalBiZ281WHBOcFhIcUhuWjhwK2pBPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1,Las Estrellas HD
 http://45.233.169.13:8000/play/a0b3/index.m3u8
-#EXTINF:-1,356 Milenio
-http://181.78.105.146:2000/play/a00y
+#EXTINF:-1,356 Milenio Youtube
+https://www.youtube.com/watch?v=OpcsOaurCRI
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="Deportes", 2313213124296_TDN/TUDN
 http://tvpremiumhd.club/lista-gratuita/green/tv/b/2021_01345-296.m3u
 #EXTINF:-1,tudn lts player
