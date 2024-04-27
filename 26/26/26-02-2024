@@ -19,8 +19,8 @@ https://d1f3q72l8uy8ur.cloudfront.net/dist/samsungtv/318/hls/master/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Programacion YO",Canal 5 (1080p)
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
 
-#EXTINF:-1,TUDN
-http://181.78.105.146:2000/play/a08j
+#EXTINF:-1,LA: TUDN SD
+http://55589858836793752.tkop413.xyz:80/play/placido180425/654556/793752.ts
 #EXTINF:-1,UNICABLE
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 #EXTINF:-1,103 Imagen lts player
@@ -47,8 +47,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492e6d7f3f560007
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png" group-title="MEXICO",AZTECA UNO OP2
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1329
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7_variante_blanca_2021.png" group-title="MEXICO",AZTECA 7 HD
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/6
+#EXTINF:-1 tvg-id="" tvg-name="LA: AZTECA 7 FHD" tvg-logo="" group-title="Latino",LA: AZTECA 7 FHD
+http://55589858836820204.tkop413.xyz:80/play/placido180425/654556/820204.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7_variante_blanca_2021.png" group-title="MEXICO",AZTECA 7  OP2
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_713.png" group-title="MEXICO",AZ CLIC HD
@@ -87,8 +87,7 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1343
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/26956
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/mexiquense_tv-mediano.png" group-title="MEXICO",MEXIQUENSE 3.1 
 http://23.148.145.82:25461/televall/R1WyjpMhlp/452
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo-Imagen-TV-MX.png/800px-Logo-Imagen-TV-MX.png" group-title="MEXICO",IMAGEN TV
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/58099
+#EXTINF:-1 tvg-id="" tvg-name="MX: MEX: IMAGEN TV VIP HD" tvg-logo="http://landiptv.vip:2095/images/ftJ4lJYOKX8Jfo7B9dK61KtUJe604Dy3j1keYV9yCGZS61jHSLUjx8qHO_vjlqCJCqgoqrQaHgGm9e23BouRbiOTRaM9CO1V8AnWezC5NIM.png" group-title="Mexico",MX: MEX: IMAGEN TV VIP HD
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Multimedios_Estrellas_de_Oro_%281991_Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20210721224718" group-title="MEXICO",MULTIMEDIOS MONTERREY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Multimedios_Estrellas_de_Oro_%281991_Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20210721224718" group-title="MEXICO",MULTIMEDIOS CDMX 
@@ -191,8 +190,8 @@ http://138.219.58.234:8112/play/171
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21419
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/240-2403856_hgtv-logo-hgtv-app.png" group-title="CULTURA",HGTV OP2
 http://tv.proyectox.vip:8080/L0vjEGB3MC/GF8Nqw8gZ5/1416
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-050AUHplpUI/VFuobCREnsI/AAAAAAAAkCE/Zs_lGMgmA74/s1600/D.Turbo.png" group-title="CULTURA",DISCOVERY TURBO
-http://45.166.92.22:58001/play/a026/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX: MEX: DISCOVERY TURBO VIP SD" tvg-logo="" group-title="Mexico",MX: MEX: DISCOVERY TURBO VIP SD
+http://55589858836818072.tkop413.xyz:80/play/placido180425/654556/818072.ts
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-050AUHplpUI/VFuobCREnsI/AAAAAAAAkCE/Zs_lGMgmA74/s1600/D.Turbo.png" group-title="CULTURA",DISCOVERY TURBO OP 2
 http://190.90.154.73:8080/play/a07x/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png" group-title="CULTURA",DISCOVERY WORLD
